@@ -1,1 +1,1 @@
-It's a store category web app built in ASP.NET Core MVC.
+It's an Inventory Management web app built in ASP.NET Core f based on MVC architecture.
