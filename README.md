@@ -1,1 +1,1 @@
-It's an Inventory Management web app built in ASP.NET Core f based on MVC architecture.
+It's an Inventory Management web app built in ASP.NET Core based on MVC architecture. This application allows users to manage the store inventory with CRUD operations. The layout was built by Bootstrap framework.
